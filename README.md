@@ -45,7 +45,7 @@
   <a href="https://www.linkedin.com/in/nam-giang-l%C3%AA-1b18252b8/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="namgiang-linkedin" />
   </a>
-  <a href="https://https://www.instagram.com/namgiang0108" target="blank">
+  <a href="https://https://www.instagram.com/namgiang0108/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="namgiang-instagram" />
   </a>
   <a href="goalegiang3@gmail.com" target="top">
