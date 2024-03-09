@@ -10,15 +10,15 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Ubuntu-282C34?logo=Ubuntu&logoColor=E95420" alt="Ubuntu logo" title="Ubuntu" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Fedora-282C34?logo=fedora&logoColor=51A2DA" alt="fedora logo" title="fedora" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/WireShark-282C34?logo=WireShark&logoColor=1679A7" alt="wiresharks logo" title="wireshark" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Metasploit-282C34?logo=metasploit&logoColor=2596CD" alt="metasploit logo" title="metasploit" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Tor Browser-282C34?logo=torbrowser&logoColor=7D4698" alt="torbrowser logo" title="torbrowser" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
+<span><img src="https://img.shields.io/badge/ZAP-282C34?logo=zap&logoColor=00549E" alt="zap logo" title="zap" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
@@ -53,7 +53,5 @@
   </a>
 </div>
 <br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
-<a href="#" target="_blank">
+
 
