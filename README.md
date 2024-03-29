@@ -12,6 +12,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Fedora-282C34?logo=fedora&logoColor=51A2DA" alt="fedora logo" title="fedora" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Tails-282C34?logo=Tails&logoColor=56347C" alt="Tails logo" title="Tails" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/WireShark-282C34?logo=WireShark&logoColor=1679A7" alt="wiresharks logo" title="wireshark" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Metasploit-282C34?logo=metasploit&logoColor=2596CD" alt="metasploit logo" title="metasploit" height="25" /></span>
@@ -19,8 +21,6 @@
 <span><img src="https://img.shields.io/badge/Tor Browser-282C34?logo=torbrowser&logoColor=7D4698" alt="torbrowser logo" title="torbrowser" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/ZAP-282C34?logo=zap&logoColor=00549E" alt="zap logo" title="zap" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
