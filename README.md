@@ -14,6 +14,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Tails-282C34?logo=Tails&logoColor=56347C" alt="Tails logo" title="Tails" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Qubes-282C34?logo=Qubes OS&logoColor=3874D8" alt="Qubes OS logo" title="Qubes OS" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/WireShark-282C34?logo=WireShark&logoColor=1679A7" alt="wiresharks logo" title="wireshark" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Metasploit-282C34?logo=metasploit&logoColor=2596CD" alt="metasploit logo" title="metasploit" height="25" /></span>
